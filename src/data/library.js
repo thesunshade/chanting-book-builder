@@ -29,9 +29,9 @@ export const library = {
     },
     content: [
       {
-        "sin-sin": "මාගේ ස්වාමී වූ/ බුදුරජාණන් වහන්සේ/ සියලූ රාග ද්වේෂ මෝහ/ දුරු කල සේක/",
-        "sin-eng": "māgē svāmī vū/ budurajāṇan vahansē/ siyalū rāga dvēsha mōha/ duru kala sēka/ ",
-        "eng-eng": "My great teacher / Supreme Buddha / eradicated passion, hatred and delusion / ",
+        "sin-sin": `මාගේ ස්වාමී වූ/ බුදුරජාණන් වහන්සේ/ සියලූ රාග ද්වේෂ මෝහ/ දුරු කල සේක/`,
+        "sin-eng": "māgē svāmī vū/ budurajāṇan vahansē/ \nsiyalū rāga dvēsha mōha/ duru kala sēka/ ",
+        "eng-eng": "My great teacher / Supreme Buddha / \neradicated passion, hatred and delusion / ",
       },
       {
         "sin-sin": "වීතරාගී වූ සේක/ වීතදෝෂී වූ සේක/ වීතමෝහී වූ සේක",
