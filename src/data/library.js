@@ -29,7 +29,7 @@ export const library = {
     },
     content: [
       {
-        "sin-sin": `මාගේ ස්වාමී වූ/ බුදුරජාණන් වහන්සේ/ සියලූ රාග ද්වේෂ මෝහ/ දුරු කල සේක/`,
+        "sin-sin": `මාගේ ස්වාමී වූ/ බුදුරජාණන් වහන්සේ/<br> සියලූ රාග ද්වේෂ මෝහ/ දුරු කල සේක/`,
         "sin-eng": "māgē svāmī vū/ budurajāṇan vahansē/ \nsiyalū rāga dvēsha mōha/ duru kala sēka/ ",
         "eng-eng": "My great teacher / Supreme Buddha / \neradicated passion, hatred and delusion / ",
       },

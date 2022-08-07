@@ -15,7 +15,7 @@ export default function TextOutput(props) {
           return (
             <>
               <div className="line">
-                <p className="sin-sin">{line["sin-sin"]}</p>
+                <p className="sin-sin" dangerouslySetInnerHTML={{ __html: line["sin-sin"] }} />
                 <p className="sin-eng">{line["sin-eng"]}</p>
                 <p className="eng-eng">{line["eng-eng"]}</p>
               </div>
